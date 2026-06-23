@@ -147,7 +147,7 @@ function App() {
         <h2>Education</h2>
 
         <div className="card">
-          <h3>B.Tech in Artificial Intelligence & Data Science</h3>
+          <h3>BCA in Artificial Intelligence & Machine Learning</h3>
           <p>Mentor College of Engineering, Muvattupuzha</p>
           <p>Expected Graduation: 2029</p>
         </div>
