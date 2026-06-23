@@ -95,7 +95,7 @@ function App() {
         <h2>Projects</h2>
 
         <div className="project-card">
-          <h3>Though mind internship</h3>
+          <h3>Thought mind internship</h3>
           <p>
            A skill-building internship that provides hands-on experience, project work, and career exposure for
            students.
